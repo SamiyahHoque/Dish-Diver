@@ -1,6 +1,8 @@
 # Dish Diver
 Dish Diver is an application for anyone looking for culinary inspiration. The frontend is built with React.js and the backend is built with Express.js and Node.js. It is powered by the [Edamam Recipe Search and Diet API](https://rapidapi.com/edamam/api/recipe-search-and-diet). The interactions with the Edamam API are handled using Axios and page routing is handled using React Router.
 
+View [here](https://imgur.com/wgc7zc9.gif) if gif doesn't load.
+
 <img src='https://imgur.com/wgc7zc9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Features
